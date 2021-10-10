@@ -1957,7 +1957,7 @@ a.big-border:hover {
     text-align: left;
     font-weight: 600;
     margin-bottom: 10px;
-    text-transform: uppercase;
+    text-transform: capitalize;
     margin-bottom: 0px;
     line-height: 24px;
 }
@@ -2448,8 +2448,9 @@ a.big-border:hover {
 
 .our-team article .social-icons {
     display: inline-block;
-    width: 100%;
-    margin-top: 10px;
+    width: inherit;
+    padding: 10px;
+    color: #fff;
 }
 
 .our-team article:hover .team-hover {
