@@ -3,7 +3,7 @@
 
 // specify your email here
 
-$to = 'sales@blakeis.com';
+$to = 'techsupport@blakeis.com';
 
 
 
